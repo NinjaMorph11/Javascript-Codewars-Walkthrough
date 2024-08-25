@@ -1,2 +1,2 @@
 # Javascript Codewars Walkthrough
- Walkthrough
+A Walkthrough
