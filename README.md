@@ -1,2 +1,2 @@
-# Javascript Codewars Wlakthrough
+# Javascript Codewars Walkthrough
  Walkthrough
